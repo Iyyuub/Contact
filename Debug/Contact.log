@@ -1,0 +1,57 @@
+﻿  Game.cpp
+C:\Dev\C++\Contact\Game.cpp(31,91): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Dev\C++\Contact\Game.cpp(31,60): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Dev\C++\Contact\Game.cpp(41,106): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Dev\C++\Contact\Game.cpp(41,62): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Dev\C++\Contact\Game.cpp(47,95): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Dev\C++\Contact\Game.cpp(47,63): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Dev\C++\Contact\Game.cpp(143,27): warning C4018: '<' : incompatibilité signed/unsigned
+  Contact.vcxproj -> C:\Dev\C++\Contact\Debug\Contact.exe
